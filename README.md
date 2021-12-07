@@ -1,2 +1,1 @@
-# NFT-Visulalizer
-visualize NFT with token address and ID
+# Songbird-nft-display

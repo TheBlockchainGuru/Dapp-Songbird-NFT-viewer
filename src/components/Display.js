@@ -4,7 +4,7 @@ import Web3 from 'web3';
 import {tokenABI} from './config' 
 import { MDBDataTableV5 } from 'mdbreact';
 
- const web3                 = new Web3(new Web3.providers.HttpProvider('https://songbird.towolabs.com/rpc'));
+ const web3                 = new Web3(new Web3.providers.HttpProvider('https://polygon-rpc.com/'));
 class Display extends Component {
     constructor(props) {
         super(props)
